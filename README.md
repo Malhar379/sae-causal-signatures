@@ -2,6 +2,8 @@
 
 **Does causal structure leave a signature in sparse autoencoder representations?**
 
+📄 [Full technical writeup (PDF)](report/technical_note.pdf)
+
 ## Research Question
 
 When two datasets have matched observable statistics (correlation, joint
